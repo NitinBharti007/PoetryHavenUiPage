@@ -32,4 +32,4 @@ Poetry Haven, Inc. is a beautifully designed landing page for a fictional poetry
    ```bash
    cd PoetryHavenUiPage
 3. **Open index.html in Your Browser:**
-   *Simply double-click the index.html file, or open it with your preferred text editor and use its live preview feature.8
+   Simply double-click the index.html file, or open it with your preferred text editor and use its live preview feature.8
